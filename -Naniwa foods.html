@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -175,6 +175,8 @@
     <div class="container" id="Address">
         <h1>Welcome to Naniwa Foods</h1>
         <p>1020 Lavida St, Lala Land</p>
+        <div class="Team shape">
+            <img src="team-shape.svg" alt="Team shape">
     </div>
 
     <div class="container menu-section" id="Menu">
@@ -183,9 +185,9 @@
         <h3>Dinner</h3>
         <p>Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs May increase your risk of Foodborne Illness.</p>
         <div class="food-gallery">
-            <img src="menu-item-1.jpg" alt="Menu item 1">
-            <img src="menu-item-2.jpg" alt="Menu item 2">
-            <img src="menu-item-3.jpg" alt="Menu item 3">
+            <img src="menu-item-2.png" alt="Menu item 1">
+            <img src="OIP.jpeg" alt="Menu item 2">
+            <img src="menu-item-3.png" alt="Menu item 3">
         </div>
     </div>
 
@@ -196,14 +198,17 @@
         <h3>Cocktails</h3>
         <h3>Spirits</h3>
         <p>There are a variety of drinks available in our restaurant.</p>
+        <div class="Drinks">
+            <img src="drink 2.jpeg" alt="Menu item 1">
+            <img src="drink.jpeg" alt="Menu item 2">
     </div>
 
     <div class="container menu-section" id="Gallery">
         <h2>Gallery</h2>
         <div class="food-gallery">
-            <img src="dish-1.jpg" alt="Dish 1">
-            <img src="dish-2.jpg" alt="Dish 2">
-            <img src="dish-3.jpg" alt="Dish 3">
+            <img src="gallery-8.jpg" alt="gallery 1">
+            <img src="gallery-7.jpg" alt="gallery 2">
+            <img src="about.jpg" alt="about"
         </div>
     </div>
 
