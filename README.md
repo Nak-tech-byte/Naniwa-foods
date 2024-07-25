@@ -208,7 +208,6 @@
         <div class="food-gallery">
             <img src="gallery-8.jpg" alt="gallery 1">
             <img src="gallery-7.jpg" alt="gallery 2">
-            <img src="events-4.jpg" alt="about"
         </div>
     </div>
 
